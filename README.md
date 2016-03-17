@@ -18,7 +18,8 @@ Installation Steps:
 3. Next, open your web browser and visit http://localhost:8000/
 4. Configure your email settings here: C:\wamp\www\sale-a-car\config\mail.php
 ( From , SMTP Server Username, SMTP Server Password, port , encryption , etc.)
-
 Note: Keep in mind if you are using Gmail SMTP server you should enavle less 
 secure app settings in your account. Login in Gmail and visit this link:
  lhttps://www.google.com/settings/security/lesssecureapps
+5. Database backup could be find in  ./sale-a-car.sql . Just simply import it
+6. Configure database settings in ./config/database.php
